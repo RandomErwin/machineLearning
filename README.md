@@ -29,4 +29,4 @@ def fit(self, X, y): ＃給已知資料訓練,估計參數
 
 ```
 ![image](https://github.com/RandomErwin/machineLearning/blob/main/感知器.png)
-![image](https://github.com/RandomErwin/webCrawler/blob/main/資料庫connect.png)
+![image](https://github.com/RandomErwin/machineLearning/blob/main/收斂.png)
