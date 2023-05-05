@@ -1,7 +1,7 @@
 # machineLearning
 ML/DL practice 
 
-```py
+``` py
 class Perceptron(object):
 
 def __inti__(self, eta=0.01, n_iter=50, random_state=1): ＃建構子, self 物件初始化
@@ -28,4 +28,4 @@ def fit(self, X, y): ＃給已知資料訓練,估計參數
 ＃ppn.fit(X,y)
 
 ```
-![image]（https://github.com/RandomErwin/machineLearning/blob/main/感知器.png)
+![image](https://github.com/RandomErwin/machineLearning/blob/main/感知器.png)
