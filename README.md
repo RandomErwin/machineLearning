@@ -28,4 +28,4 @@ def fit(self, X, y): ＃給已知資料訓練,估計參數
 ＃ppn.fit(X,y)
 
 ```
-![GITHUB]（https://github.com/RandomErwin/machineLearning/blob/main/感知器.png)
+![image]（https://github.com/RandomErwin/machineLearning/blob/main/感知器.png)
